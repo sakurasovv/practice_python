@@ -26,20 +26,20 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OYoypYJAVgU7TEI7PJWD0fTuaF" />
-  <component name="ProjectLevelVcsManager">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/zzqwe/Desktop/practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/zzqwe/Desktop/practice&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="fizzbuzz" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="practice" />
@@ -86,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681759390814</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit 17.04.2023 gl with checking">
+      <created>1681760253737</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681760253737</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
